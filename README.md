@@ -422,7 +422,7 @@ dependencies = [
 
 ```bash
 # Клонування репозиторію
-git clone <repository-url>
+git clone  https://github.com/TiredRebel/goit-algo-fp.git
 cd goit-algo-fp
 
 # Встановлення залежностей (використовуючи uv)
